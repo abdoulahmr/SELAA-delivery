@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "704459372046",
+    "project_id": "selaa-93e88",
+    "storage_bucket": "selaa-93e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704459372046:android:deffa518e69cc3928c6e5f",
+        "android_client_info": {
+          "package_name": "com.example.selaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704459372046-799s03uku92aotvfo0vq2g8tmq0qa9b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selaa",
+            "certificate_hash": "2a51407fb19747da6f36facd1892b87cda33d487"
+          }
+        },
+        {
+          "client_id": "704459372046-q6cpsnkii4hp3llh7i9r1ebp0ub41rck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDkKi-2GtUrhDbp03eWE-mXmgYozspDWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704459372046-q6cpsnkii4hp3llh7i9r1ebp0ub41rck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704459372046-j41dgoj0jeqhnufbkq77rsevi0ol3qrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.selaa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704459372046:android:7fd3fb16b95873db8c6e5f",
+        "android_client_info": {
+          "package_name": "com.example.selaa_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704459372046-q6cpsnkii4hp3llh7i9r1ebp0ub41rck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDkKi-2GtUrhDbp03eWE-mXmgYozspDWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704459372046-q6cpsnkii4hp3llh7i9r1ebp0ub41rck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704459372046-j41dgoj0jeqhnufbkq77rsevi0ol3qrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.selaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
